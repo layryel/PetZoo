@@ -19,24 +19,24 @@ Projeto desenvolvido na disciplina de Programação Web III.
 **Atividade solicitada:**
 
 ATRAVÉS DE UM PROJETO EM LARAVEL:
-- utilizar a estrutura de componentes em Templates para criar View PRINCIPAL, QUEM SOMOS e CONTATO.
+- Utilizar a estrutura de componentes em Templates para criar View PRINCIPAL, QUEM SOMOS e CONTATO.
 
 CRIAR CONTEÚDO LIVRE:
-- para cada View utilizar BOOTSTRAP OU tailwind css;
-- imagens.
+- Para cada View utilizar BOOTSTRAP OU tailwind css;
+- Imagens.
 
 CRIAR NA VIEW CONTATO: 
-
-formulário com as variáveis:
-- nome;
-- telefone;
-- endereço;
-- sexo.
+Formulário com as variáveis:
+- Nome;
+- Telefone;
+- Endereço;
+- Sexo.
 
 O formulário deve ter o action enviando para o controler as informações e setar no VAR_DUMP as informações na
 View.
  
  
 ##
-**Plus greeatings:**
-<h6>inpired by: LuisaSantosSilva README.</h6>
+**Agradecimentos:**
+<h6>Professor Marcelo Collado</h6>
+<h6>Inpired by: LuisaSantosSilva README.</h6>
